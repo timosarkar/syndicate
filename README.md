@@ -1,4 +1,5 @@
-# syndicate
+# Symbiote/Syndicate:Linux
+
 heavy-armored, stealth LD_PRELOAD rootkit
 
 ## Features
