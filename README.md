@@ -10,3 +10,4 @@ heavy-armored, stealth LD_PRELOAD rootkit
 - Anti-Emulation routine
 - Anti-Forensics by dropping files into a loaded vfs which itself is hidden by LD_PRELOAD
 - Encrypted telegram backdoor
+- watchdog mechanism that loads a driver which watchdogs the main PRE_LD_PRELOAD process
